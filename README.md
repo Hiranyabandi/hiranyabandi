@@ -15,67 +15,17 @@ Passionate data enthusiast with a knack for turning complex data into actionable
 🚀 **MLOps & Kubernetes** for AI model deployment  
 🧠 **LLMs & Generative AI** for real-world applications  
 
-## Tech Stack
+## 💡 **Tech Stack**
 
-**Languages:**
-
-* Python
-* R
-* SQL
-
-**Machine Learning:**
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* TensorFlow
-* Keras
-* PyTorch
-
-**Backend:**
-
-* Django
-
-**Cloud and Deployment:**
-
-* AWS
-* Microsoft Azure
-* Docker
-* Snowflake
-
-**Statistical Analysis:**
-
-* Descriptive & Inferential Statistics
-* Regression Analysis
-* Multivariate Analysis
-
-**Data Analysis:**
-
-* Data Mining
-* Feature Engineering
-
-**Data Visualization:**
-
-* Tableau
-* Matplotlib
-* Seaborn
-* Excel
-* Power BI
-
-**LLM and NLP:**
-
-* Hugging Face Transformers
-* BERT
-* RAG
-* Langchain
-
-**Time Series Forecasting:**
-
-* Prophet
-* ARIMA
-* VAR
+🔹**Languages:** Python, R, SQL <br>
+🔹**Machine Learning:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch  <br>
+🔹**Backend:** Django  <br>
+🔹**Cloud and Deployment:** AWS, Microsoft Azure, Docker, Snowflake  <br>
+🔹**Statistical Analysis:** Descriptive & Inferential Statistics, Regression Analysis, Multivariate Analysis  <br>
+🔹**Data Analysis:** Data Mining, Feature Engineering  <br>
+🔹**Data Visualization:** Tableau, Matplotlib, Seaborn, Excel, Power BI  <br>
+🔹**LLM and NLP:** Hugging Face Transformers, BERT, RAG, Langchain  <br>
+🔹**Time Series Forecasting:** Prophet, ARIMA,VAR  <br>
 
 
 
