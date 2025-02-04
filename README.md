@@ -15,32 +15,78 @@ Passionate data enthusiast with a knack for turning complex data into actionable
 🚀 **MLOps & Kubernetes** for AI model deployment  
 🧠 **LLMs & Generative AI** for real-world applications  
 
-### 💼 **Tech Expertise**  
-**Languages:**  
-🐍 Python, 📊 SQL, 📉 R
+## Tech Stack
 
-**Databases & Data Warehousing:**  
-🗃️ PostgreSQL, 🐬 MySQL, ⚙️ MySQL Workbench, ☁️ Amazon Redshift, 🌐 MongoDB
+**Languages:**
 
-**AI & Machine Learning:**  
-🤖 Scikit-Learn, 🔢 TensorFlow, 🧠 PyTorch, 🧩 Hugging Face
+* Python
+* R
+* SQL
 
-**Cloud & Big Data:**  
-☁️ Azure, ☁️ AWS, 🐳 Docker, ⚡ Spark
+**Machine Learning:**
 
-**Data Visualization & Analysis:**  
-📊 Tableau, 📈 Power BI, 📊 hvPlot, 📉 Matplotlib, 📊 Seaborn,
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* TensorFlow
+* Keras
+* PyTorch
+
+**Backend:**
+
+* Django
+
+**Cloud and Deployment:**
+
+* AWS
+* Microsoft Azure
+* Docker
+* Snowflake
+
+**Statistical Analysis:**
+
+* Descriptive & Inferential Statistics
+* Regression Analysis
+* Multivariate Analysis
+
+**Data Analysis:**
+
+* Data Mining
+* Feature Engineering
+
+**Data Visualization:**
+
+* Tableau
+* Matplotlib
+* Seaborn
+* Excel
+* Power BI
+
+**LLM and NLP:**
+
+* Hugging Face Transformers
+* BERT
+* RAG
+* Langchain
+
+**Time Series Forecasting:**
+
+* Prophet
+* ARIMA
+* VAR
 
 
 
 ### 📂 **Highlighted Projects**
 
 🔹 **Baymax - Terms and Conditions Summarization**  
-Developed a **LLM-based application** using **Retrieval-Augmented Generation (RAG)** to simplify complex legal jargon in **Terms and Conditions** documents. The application increased user comprehension by 50%, making legal text more accessible and actionable.
+Developed a **LLM-based application** using **Retrieval-Augmented Generation (RAG)** to simplify complex legal jargon in **Terms and Conditions** documents. The application increased user comprehension by 50%, making legal text more accessible and actionable.<br>
 🔹 **Energy Forecasting Data Challenge**  
-Utilized **FB Prophet**, **VAR**, and **ARIMA** models to forecast energy demand for **industrial and commercial sites**. My solution improved accuracy by 30%, enabling better resource allocation and energy management strategies.
+Utilized **FB Prophet**, **VAR**, and **ARIMA** models to forecast energy demand for **industrial and commercial sites**. My solution improved accuracy by 30%, enabling better resource allocation and energy management strategies.<br>
 🔹 **Home Credit - Credit Risk Model Stability**  
-Built a robust **machine learning model** using **XGBoost** and **LightGBM** to predict loan defaults. The model enhanced accuracy by 35%, improving financial inclusion by helping lenders make data-driven decisions for creditworthiness.
+Built a robust **machine learning model** using **XGBoost** and **LightGBM** to predict loan defaults. The model enhanced accuracy by 35%, improving financial inclusion by helping lenders make data-driven decisions for creditworthiness.<br>
 🔹 **Sentiment Analysis on COVID-19 Twitter Data**  
 Used **BERT** for sentiment analysis on **Twitter data** related to **COVID-19** vaccinations. This project provided insights into public sentiment, helping evaluate trends in vaccine acceptance and COVID-related discussions. 
 
