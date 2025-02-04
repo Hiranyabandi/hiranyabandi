@@ -7,12 +7,30 @@
 🔹 Building **AI-driven applications** in **Generative AI, NLP, and Predictive Analytics**  
 🔹 Focused on **LLMs, RAG-based AI, and MLOps** for cutting-edge deployments  
 
-### 💡 **Tech Stack**  
-**Languages:** Python, SQL, R  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redshift, Snowflake  
-**ML & AI:** Scikit-Learn, TensorFlow, PyTorch, Hugging Face, OpenCV  
-**Cloud & Big Data:** **Azure, AWS, Docker, Spark**  
-**Data Visualization:** Tableau, Power BI, hvPlot, Matplotlib  
+Here’s a version of your **Tech Stack** with emojis for your specific skill set:
+
+---
+
+### 💡 **Tech Stack**
+
+**Languages:**  
+🐍 Python, 📊 SQL, 📉 R
+
+**Databases and Warehouses:**  
+🗃️ PostgreSQL, 🐬 MySQL, ⚙️ MySQL Workbench, ☁️ Amazon Redshift, 🌐 MongoDB, 🗄️ Cassandra
+
+**Machine Learning & AI:**  
+🤖 Scikit-Learn, 🔢 TensorFlow, 🧠 PyTorch, 🧩 Hugging Face, 🖼️ OpenCV
+
+**Cloud Platforms & Big Data:**  
+☁️ Azure, ☁️ AWS, 🐳 Docker, ⚡ Spark
+
+**Data Visualization:**  
+📊 Tableau, 📈 Power BI, 📊 hvPlot, 📉 Matplotlib
+
+---
+
+This format uses a combination of **symbols and emojis** that represent the technologies and categories you're skilled in. Let me know if you'd like any adjustments!
 
 ### 🌱 **Currently Learning**  
 🚀 **MLOps & Kubernetes** for AI model deployment  
