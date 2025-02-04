@@ -1,4 +1,4 @@
-## **Hi there 👋 I'm Hiranya Vaishnavi Bandi
+## **Hi there 👋 I'm Hiranya Vaishnavi Bandi**
 📊 **Data Scientist** | ☁️ **Cloud & AI Enthusiast** | 🤖 **LLM & NLP Researcher**
 
 ## 🌟**Career Objective**
